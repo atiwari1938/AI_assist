@@ -1,0 +1,7 @@
+pandas
+openpyxl
+pyarrow
+faiss-cpu
+openai
+langchain
+python-dotenv

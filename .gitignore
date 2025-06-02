@@ -1,0 +1,12 @@
+# Python environment
+venv/
+
+# Bytecode cache
+__pycache__/
+
+# Data artifacts
+data/tickets.parquet
+data/processed_hashes.db
+
+# Environment variables
+.env
